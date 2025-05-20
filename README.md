@@ -8,7 +8,7 @@ Deploy a simple HTML website using GitHub Pages.
 - `styles.css` — (Optional) Custom styles for the page.
 
 ## How to View the Website
-Visit the live site here: [https://shubhamgrover1.github.io/EL_Task6_StaticWebsite](https://shubhamgrover1.github.io/EL_Task6_StaticWebsite)
+Visit the live site here: [https://shubhamgrover1.github.io/EL_Task6_StaticSite](https://shubhamgrover1.github.io/EL_Task6_StaticSite)
 
 ## Deployment Steps
 1. Created a GitHub repository.
